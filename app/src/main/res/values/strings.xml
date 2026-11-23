@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Casan</string>
+    <string name="offline_title">Tidak ada koneksi</string>
+    <string name="offline_message">Periksa jaringan internet Anda lalu coba lagi.</string>
+    <string name="retry">Coba lagi</string>
+    <string name="downloading">Mengunduh %1$s…</string>
+    <string name="filter_not_found">Filter belum bisa dipakai di halaman ini</string>
+    <string name="favorite_added">%1$s dijadikan favorit — otomatis aktif saat aplikasi dibuka</string>
+    <string name="favorite_removed">%1$s dihapus dari favorit</string>
+    <string name="download_failed">Gagal mengunduh berkas</string>
+</resources>
